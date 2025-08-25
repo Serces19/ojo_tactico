@@ -40,6 +40,7 @@ valid/
 test/
 images/
 labels/
+inference_output/
 
 # Archivos grandes o temporales
 *.zip

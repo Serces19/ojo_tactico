@@ -66,8 +66,7 @@ def main(model_path, images_dir, output_dir):
         results = model(
         frame,
         imgsz=1920,           # Tamaño de entrada. Mayor = más detalle (múltiplos de 32)
-        conf=0.7,           # Umbral de confianza. Bajarlo detecta más objetos (incluso débiles)
-        iou=0.3,            # Umbral de NMS. Menor = menos solapamiento, evita duplicados
+        conf=0.6,           # Umbral de confianza. Bajarlo detecta más objetos (incluso débiles)
         max_det=300,         # Máximo número de detecciones. Aumentarlo ayuda si hay muchos objetos
         half=False,          # Usa FP16 (más rápido, pero menor precisión). Pon False para máxima precisión
         device='cpu',       # Usa GPU si está disponible ('cuda') o 'cpu'
