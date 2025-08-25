@@ -1,0 +1,283 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 37.86768754323324,
+                        "y": 87.23613597728588,
+                        "width": 1.536569595336914,
+                        "height": 6.320812084056714,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 83.16360473632812,
+                        "y": 49.35035988136574,
+                        "width": 1.702537536621094,
+                        "height": 5.079583062065972,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 51.37799580891927,
+                        "y": 81.76561143663194,
+                        "width": 1.3758214314778645,
+                        "height": 5.687967936197916,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 30.998536745707195,
+                        "y": 50.33444157353154,
+                        "width": 1.016092300415039,
+                        "height": 4.336700439453125,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 46.6273307800293,
+                        "y": 82.09950764973958,
+                        "width": 1.4214324951171875,
+                        "height": 6.116366916232639,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 42.35619862874349,
+                        "y": 49.69891866048177,
+                        "width": 0.9759521484375,
+                        "height": 4.043008309823495,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 89.71115112304688,
+                        "y": 79.85306351273148,
+                        "width": 1.9758224487304688,
+                        "height": 5.647413465711805,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 39.796582857767746,
+                        "y": 59.797750402379926,
+                        "width": 1.1161009470621743,
+                        "height": 4.341854519314236,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 62.60636647542318,
+                        "y": 69.38928674768519,
+                        "width": 1.442578633626302,
+                        "height": 4.015073423032407,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 54.11590576171875,
+                        "y": 76.77107069227431,
+                        "width": 1.4632034301757812,
+                        "height": 5.545654296875,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 66.5014139811198,
+                        "y": 31.808059127242476,
+                        "width": 0.9591166178385417,
+                        "height": 3.692813449435764,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 29.874529838562015,
+                        "y": 61.81282608597367,
+                        "width": 0.9223651885986329,
+                        "height": 5.00944349500868,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 64.41667238871257,
+                        "y": 70.67859225802951,
+                        "width": 1.3843727111816406,
+                        "height": 3.6577690972222223,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 77.87044525146484,
+                        "y": 62.413895218460645,
+                        "width": 1.6960906982421875,
+                        "height": 5.058989348234954,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "bbox",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "original_width": 1920,
+                    "original_height": 1080,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 71.74083709716797,
+                        "y": 44.85843234592014,
+                        "width": 1.0274124145507812,
+                        "height": 4.276309543185764,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "person"
+                        ]
+                    }
+                }
+            ],
+            "id": "1",
+            "lead_time": 0.0
+        }
+    ],
+    "data": {
+        "image": "/data/local-files/?d=dataset_curado/img3_117479.png"
+    }
+}
