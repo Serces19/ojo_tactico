@@ -1,7 +1,0 @@
-
-train: images/train
-val: images/val
-test: images/test
-
-nc: 4
-names: ["ball", "goalkeeper", "player", "referee"]
